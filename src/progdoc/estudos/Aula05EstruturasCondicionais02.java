@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
+package progdoc.estudos;
 
 public class Aula05EstruturasCondicionais02 {
     public static void main(String[] args) {

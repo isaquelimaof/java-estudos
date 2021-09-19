@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Aula05EstruturasCondicionais02",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Aula05EstruturasCondicionais02",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
+            "name": "Launch Paradigmas",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Paradigmas",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
             "name": "Launch Paradigmas",
             "request": "launch",
             "mainClass": "progdoc.estudos.Paradigmas",
