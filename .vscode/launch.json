@@ -1,0 +1,106 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Paradigmas",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Paradigmas",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParadigmaFuncional",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.ParadigmaFuncional",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploLocaltime",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.ExemploLocaltime",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploLocaldate",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.ExemploLocaldate",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstudoLocaldate$Localdate",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.EstudoLocaldate$Localdate",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simpledate",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Simpledate",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dataformat",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Dataformat",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simpledateformat",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Simpledateformat",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleDateFormat",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.SimpleDateFormat",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataFormat",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.DataFormat",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgUsuarioDataPagamento",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.ProgUsuarioDataPagamento",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgUsuarioDataPagamento",
+            "request": "launch",
+            "mainClass": "teste01.ProgUsuarioDataPagamento",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "java",
+            "name": "Launch Estudos",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Estudos",
+            "projectName": "progjava_4d5fdb34"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
