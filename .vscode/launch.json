@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ProgUsuarioDataPagamento",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.ProgUsuarioDataPagamento",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
             "name": "Launch Aula05EstruturasCondicionais02",
             "request": "launch",
             "mainClass": "progdoc.estudos.Aula05EstruturasCondicionais02",

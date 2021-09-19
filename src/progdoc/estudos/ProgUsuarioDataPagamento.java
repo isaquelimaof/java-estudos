@@ -8,13 +8,13 @@ import java.util.concurrent.TimeUnit;
 
 public class ProgUsuarioDataPagamento {
 
-    private static Scanner casa;
+    private static Scanner dataUsuario;
 
-    public static void main(String[] args) throws ParseException {
+    public static void main(String[] args, Scanner scanner) throws ParseException {
 
-        casa = new Scanner(System.in);
+        dataUsuario = scanner;
         System.out.println("Por favor escreva a data do vencimento: ");
-        String date = casa.nextLine();
+        String date = dataUsuario.nextLine();
 
         SimpleDateFormat vencimento = new SimpleDateFormat("dd/MM/yyyy");
         Date dataVenc = vencimento.parse(date);
