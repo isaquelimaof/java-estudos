@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Imc",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Imc",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
             "name": "Launch Calendar",
             "request": "launch",
             "mainClass": "progdoc.estudos.Calendar",

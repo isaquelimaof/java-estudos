@@ -2,11 +2,9 @@ package progdoc.estudos;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
-import java.util.spi.CalendarDataProvider;
 
 public class ProgUsuarioPagamento {
 
