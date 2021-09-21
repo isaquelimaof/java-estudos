@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Aula01OlaDevDojo",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Aula01OlaDevDojo",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgUsuarioPagamento",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.ProgUsuarioPagamento",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgUsuarioDataPagamento",
+            "request": "launch",
+            "mainClass": "teste01.ProgUsuarioDataPagamento",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
             "name": "Launch ProgUsuarioDataPagamento",
             "request": "launch",
             "mainClass": "progdoc.estudos.ProgUsuarioDataPagamento",
