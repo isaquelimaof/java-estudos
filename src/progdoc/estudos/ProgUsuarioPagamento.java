@@ -2,6 +2,7 @@ package progdoc.estudos;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -20,7 +21,7 @@ public class ProgUsuarioPagamento {
         Date dataVenc = vencimento.parse(date);
 
         Date dataHoje = new Date();
-
+        
         long calculDatas = dataVenc.getDate() - dataHoje.getDate();
 
         if (calculDatas<0) {

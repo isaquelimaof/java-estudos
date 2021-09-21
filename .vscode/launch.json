@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Calendar",
+            "request": "launch",
+            "mainClass": "progdoc.estudos.Calendar",
+            "projectName": "progjavaEstudos_81c58565"
+        },
+        {
+            "type": "java",
             "name": "Launch Aula01OlaDevDojo",
             "request": "launch",
             "mainClass": "progdoc.estudos.Aula01OlaDevDojo",
