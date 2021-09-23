@@ -1,4 +1,4 @@
-package progdoc.estudos;
+package progdoc.estudos.InnovationOne;
 
 public class Lambda {
 

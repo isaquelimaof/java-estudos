@@ -1,4 +1,4 @@
-package progdoc.estudos;
+package progdoc.estudos.InnovationOne;
 
 import java.util.Arrays;
 import java.util.function.UnaryOperator;

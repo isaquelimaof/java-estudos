@@ -1,4 +1,4 @@
-package progdoc.estudos;
+package progdoc.estudos.InnovationOne;
 
 public class FatorialRecussivo {
     public static void main(String[] args) {
