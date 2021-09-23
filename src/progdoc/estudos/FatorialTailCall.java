@@ -9,7 +9,7 @@ public class FatorialTailCall {
     }
     public static double fatorialComTailCall(double valor, double numero) {
         {
-            return numero.
+            return numero;
         }
         return fatorialComTailCall(valor-1,numero*valor);
     }
