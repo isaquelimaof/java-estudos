@@ -3,7 +3,7 @@ package javaInnovation.estudos.innovationOne;
 import java.util.Scanner;
 
 public class Imc {
-     
+
     public static Scanner usuario;
 
     public static void main(String[] args) {
@@ -23,27 +23,27 @@ public class Imc {
             System.out.println("Quando seu IMC está abaixo de 17 \n" +
                     "-->!!! O seu peso está muito abaixo do ideal !!!");
         }
-        if (imc >= 17.5 & imc <= 18.49 ) {
+        else if (imc >= 17.5 & imc <= 18.49 ) {
             System.out.println("Quando seu IMC está entre 17,5 e 18,49 \n" +
                     "-->  O seu peso está abaixo do ideal.");
         }
-        if (imc >= 18.5 & imc <= 24.99) {
+        else if (imc >= 18.5 & imc <= 24.99) {
             System.out.println("Quando seu IMC está entre 18,5 e 24,99 \n" +
                     "-->  O seu peso está ideal.");
         }
-        if (imc >= 25 & imc <= 29.99) {
+        else if (imc >= 25 & imc <= 29.99) {
             System.out.println("Quando seu IMC está entre 25 e 29,99 \n" +
                     "-->  O seu peso está acima do ideal.");
         }
-        if (imc >= 30 & imc <= 34.99) {
+        else if (imc >= 30 & imc <= 34.99) {
             System.out.println("Quando seu IMC está entre 30 e 34,99 \n" +
                     "-->  O seu peso está em obesidade grau I (!!!Atenção!!!)");
         }
-        if (imc >= 35 & imc <= 39.99) {
+        else if (imc >= 35 & imc <= 39.99) {
             System.out.println("Quando seu IMC está entre 35 e 39,99 \n" +
                     "-->  O seu peso está em obesidade grau II (severa) (!!!Atenção!!!)");
         }
-        if (imc >= 40) {
+        else if (imc >= 40) {
             System.out.println("Quando seu IMC está acima de 40 \n" +
                     "-->  O seu peso está em obesidade grau III (mórbida) (!!!Atenção!!!)");
         }

@@ -2,6 +2,8 @@ package javaInnovation.estudos.innovationOne;
 
 public class FuncaoAltaOrdem {
     public static void main(String[] args) {
+
+
         Calculo SOMA = Integer::sum;// ou usar: Integer::sum;
         Calculo SUBTRACAO = (a,b) -> a-b;
         Calculo DIVISAO = (a,b) -> a/b;
