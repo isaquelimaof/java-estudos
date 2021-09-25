@@ -34,7 +34,7 @@ public class ProgUsuarioPagamento {
         }else if(resultado>0){
             System.out.println("Vc tem : "+resultado+" dias para pagar sua conta!!!!!");
 
-        }else if(resultado == 0) {
+        }else {
             System.out.println("!!!!Atenção!!!!!\n   "+"Hoje é o ultimo dia para pagamento da sua conta!!!!");
         }
         
