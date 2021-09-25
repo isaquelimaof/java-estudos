@@ -1,4 +1,4 @@
-package progdoc.estudos.InnovationOne;
+package javaInnovation.estudos.innovationOne;
 
 import java.time.LocalDateTime;
 import java.time.LocalTime;
