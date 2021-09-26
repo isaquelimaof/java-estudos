@@ -4,7 +4,12 @@
     <pattern value="progdoc.estudos.ProgUsuarioDataPagamentos" method="main" />
     <pattern value="progdoc.estudos.ProgUsuarioDataPagamentos" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK">
+  <component name="ExtraIconsSettingsProject">
+    <option name="overrideIDESettings" value="true" />
+    <option name="ignoredPattern" value="" />
+    <option name="additionalUIScale" value="1.0" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

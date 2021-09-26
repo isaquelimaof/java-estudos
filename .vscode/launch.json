@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Launch Imc",
             "request": "launch",
+            "mainClass": "javaInnovation.estudos.innovationOne.Imc",
+            "projectName": "java-estudos_c8fa0546"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "javaInnovation.estudos.innovationOne.Functions",
+            "projectName": "java-estudos_c8fa0546"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consumidores",
+            "request": "launch",
+            "mainClass": "javaInnovation.estudos.innovationOne.Consumidores",
+            "projectName": "java-estudos_c8fa0546"
+        },
+        {
+            "type": "java",
+            "name": "Launch Imc",
+            "request": "launch",
             "mainClass": "progdoc.estudos.Imc",
             "projectName": "progjavaEstudos_81c58565"
         },
