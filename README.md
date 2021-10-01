@@ -1,3 +1,3 @@
-## Prog Java Estudos
+## Prog Java Estudo
 
-<img src= "/Users/isaqu/OneDrive/Imagens/artigo-introducao-a-tecnologia-java-25899.png" alt="My cool logo"/>
+![artigo-introducao-a-tecnologia-java-25899](C:\Users\isaqu\OneDrive\Imagens\artigo-introducao-a-tecnologia-java-25899.png) 
