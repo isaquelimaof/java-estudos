@@ -19,10 +19,13 @@ public class DoWile {
             System.out.println(" (0) Sair ");
 
             System.out.println(" Digite o código da operação desejada: ");
+
             a = usuario.nextFloat();
+
             if(a != 1 && a != 2 && a != 3 && a != 4 && a != 0) {
                 System.out.println("!!!!! ATENÇÃO - ERRO !!!!!\n" +"DIGITE AS OPÇÕES INDICADAS !!!!!");
             }
+
             if (a == 1 || a == 2 || a == 3 || a == 4){
                 System.out.println("Digite o primeiro número: ");
                 num1 = usuario.nextFloat();
