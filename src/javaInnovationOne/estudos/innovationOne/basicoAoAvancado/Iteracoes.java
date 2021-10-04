@@ -8,11 +8,11 @@ import java.util.stream.Stream;
 public class Iteracoes {
 
     public static void main(String[] args) {
-        String[] nomes = {"Joao","Joao", "Paulo","Oliveira","Santos","Instrutor","Java"};
+        /*String[] nomes = {"Joao","Joao", "Paulo","Oliveira","Santos","Instrutor","Java"};
         Integer[] numeros = {1,2,3,4,5};
-//        imprirmirNomesFiltrados(nomes);
-//        imprirmirTodosNomes(nomes);
-//        imprirmirODobroDeCadaItemDaLista(numeros);
+       imprirmirNomesFiltrados(nomes);
+       imprirmirTodosNomes(nomes);
+       imprirmirODobroDeCadaItemDaLista(numeros);*/
 
         List<String> profissoes = new ArrayList<>();
         profissoes.add("Desenvolvedor");
@@ -27,12 +27,12 @@ public class Iteracoes {
     }
 
 
-    public static void imprirmirNomesFiltrados(String... nomes){
+    /*public static void imprirmirNomesFiltrados(String... nomes){
 
         String nomesParaImprimir= "";
         for (int i = 0; i < nomes.length ; i++) {
             if (nomes[i].equals("Joao")){
-                nomesParaImprimir+=""+nomes[i];
+                nomesParaImprimir += "" + nomes[i];
             }
         }
 
@@ -46,9 +46,9 @@ public class Iteracoes {
         System.out.println("Nomes do stream: "+nomesparaImprimirDaStream);
 
 
-//        String nomesResultados = Stream.of(nomes).filter(nome -> nome.equals("Joao"))
-//                .collect(Collectors.joining());
-//        System.out.println(nomesResultados);
+        String nomesResultados = Stream.of(nomes).filter(nome -> nome.equals("Joao"))
+                .collect(Collectors.joining());
+       System.out.println(nomesResultados);
     }
 
 
@@ -67,5 +67,5 @@ public class Iteracoes {
         }
         Stream.of(numeros).map( numero -> numero*2)
                 .forEach(System.out::println);
-    }
+    }*/
 }
