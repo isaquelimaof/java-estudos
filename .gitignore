@@ -1,7 +1,9 @@
-git
-idea
-vscode
-imagens
-lib
-out
+*.git
+*.idea
+*.vscode
+*imagens/
+*lib/
+*out/
+java-Estudos.iml
+
 
