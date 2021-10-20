@@ -1,6 +1,5 @@
 package maratonaJavaViradoNoJiraya.estudos;
 
-import groovy.json.JsonOutput;
 
 public class Arrays1 {
     public static void main(String[] args) {
